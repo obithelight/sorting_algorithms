@@ -1,6 +1,8 @@
 # 0x1B. C - Sorting algorithms & Big O
 - C, Algorithm, Data Structure
 
+![big_0](https://github.com/obithelight/sorting_algorithms/assets/91734251/133817fb-8ff3-4a6d-9f1b-a59313db4e2c)
+
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone:
 
