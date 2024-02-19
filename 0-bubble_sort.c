@@ -7,11 +7,11 @@
  */
 void swap_func(int *left, int *right)
 {
-        int temp;
+	int temp;
 
-        temp = *left;
-        *left = *right;
-        *right = temp;
+	temp = *left;
+	*left = *right;
+	*right = temp;
 }
 
 /**
